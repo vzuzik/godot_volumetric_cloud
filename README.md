@@ -18,7 +18,7 @@ Add WorldEnvironment to your scene and create empty Environment.
 ### CASE 1
 In your Environment create new CloudSky to the "Sky" property. 
 Then tweak the exposed properties as you see fit.
-You can control sun orientation by changind the "sunAngles" property.
+You can control sun orientation by changing the "sunAngles" property.
 
 ### CASE 2
 In your Environment create new CloudSky to the "Sky" property. Then tweak the exposed properties as you see fit.
